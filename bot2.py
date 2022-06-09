@@ -7,7 +7,7 @@ import aiohttp
 
 info = {
     "prefix": ".",
-    "token": "OTMxMjgwMTgyMzE1MjA4NzA1.GnhSJU.KoFAs4Dj062vJ0pwBxDm1PUMgdKle967VTtGKo"
+    "token": "OTMxMjgwMTgyMzE1MjA4NzA1.GWsV0l.CFAOiimM5kJf3BaegU5Xo483KGCkyWsDTyWc0c"
 }
 
 bot = commands.Bot(command_prefix=info["prefix"], intents=discord.Intents.all())
